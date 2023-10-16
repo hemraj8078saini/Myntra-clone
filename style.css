@@ -1,0 +1,54 @@
+html,body{
+  height: 100%;
+  width: 100%;
+  box-sizing: border-box;
+}
+header {
+  /* position: sticky; */
+  width: 100vh;
+  top: 0;
+  padding: 0 px;
+  margin: 0 px;
+  background: white;
+}
+.search {
+  /* width: 34px; */
+  padding: 8px 75px;
+  border: 0.5px solid grey;
+  background: #f7f8fd;
+  border-radius: 5px;
+}
+
+.left img {
+  width: 32px;
+  height: 23px;
+
+}
+.container {
+  padding: 0 0vw;
+}
+nav {
+  font: size 12px;
+  padding: 14px;
+}
+nav ul li {
+  list-style: none;
+  padding: 0 12px;
+}
+.container-section1 {
+  background: #f6f5f5;
+  height: 110vh;
+}
+.image1 {
+  /* width: 100%; */
+  width: 100%;
+}
+.headings {
+  font-weight: bolder;
+  letter-spacing: 7px;
+  padding: 22px 12px;
+  background-color: white;
+}
+.outer {
+  display: flex;
+}
